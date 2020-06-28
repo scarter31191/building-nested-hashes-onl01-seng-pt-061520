@@ -20,7 +20,8 @@ def bonus
    }
   }
 
-  epic_tragedy[:montague][:patriarch][:name] = #code your solution here:
+  epic_tragedy[:montague][:hero][:status] = "M"
+  puts epic_tragedy
 
   
 
